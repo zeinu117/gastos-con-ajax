@@ -1,4 +1,4 @@
-
+<!--By Zein todo los derechos reservados-->
 <?php
     session_start();
     $idUsuario = $_SESSION['usuario']['id'];
@@ -12,3 +12,51 @@
     echo $Gastos->agregarNuevoGasto($idUsuario,$idCategoria,$monto,$descripcion,$fecha);
 
 ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--By Zein todo los derechos reservados-->

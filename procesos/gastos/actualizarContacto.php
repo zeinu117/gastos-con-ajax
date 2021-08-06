@@ -13,3 +13,35 @@
     echo $Gastos->actualizarGasto($datos);
 //"idCategoriaSelectU=2&idGastoU=5&montoU=4555&descripcionU=com&fechaU=2021-08-06"
 ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--By Zein todo los derechos reservados-->

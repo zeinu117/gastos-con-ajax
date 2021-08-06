@@ -1,3 +1,4 @@
+<!--By Zein todo los derechos reservados-->
 <?php   
 
     include "Conexion.php";
